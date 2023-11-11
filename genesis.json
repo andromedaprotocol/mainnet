@@ -1,5 +1,5 @@
 {
-  "genesis_time": "2023-11-12T18:35:28.075727892Z",
+  "genesis_time": "2023-11-14T00:00:000Z",
   "chain_id": "andromeda-1",
   "initial_height": "1",
   "consensus_params": {
@@ -205,16 +205,16 @@
     },
     "mint": {
       "minter": {
-        "inflation": "0.130000000000000000",
+        "inflation": "0.000000000000000000",
         "annual_provisions": "0.000000000000000000"
       },
       "params": {
-        "mint_denom": "stake",
-        "inflation_rate_change": "0.130000000000000000",
-        "inflation_max": "0.200000000000000000",
-        "inflation_min": "0.070000000000000000",
-        "goal_bonded": "0.670000000000000000",
-        "blocks_per_year": "6311520"
+        "mint_denom": "andr",
+        "inflation_rate_change": "0.000000000000000000",
+        "inflation_max": "0.000000000000000000",
+        "inflation_min": "0.000000000000000000",
+        "goal_bonded": "0.000000000000000000",
+        "blocks_per_year": "6000000"
       }
     },
     "nft": {
