@@ -390,15 +390,6 @@
           ]
         },
         {
-          "address": "andr1yznwkhnzey20mqsezlujntsznskd03lwynk3wq",
-          "coins": [
-            {
-              "denom": "uandr",
-              "amount": "50000000000000"
-            }
-          ]
-        },
-        {
           "address": "andr1ymu09gprafaz26x7g7xe9sxkc2lc8p4ywdzd3u",
           "coins": [
             {
@@ -413,15 +404,6 @@
             {
               "denom": "uandr",
               "amount": "100000000000"
-            }
-          ]
-        },
-        {
-          "address": "andr1xa7nyzamw8qhtsd5muwdqnqphj8kgcm5yjnrl6",
-          "coins": [
-            {
-              "denom": "uandr",
-              "amount": "1000000000000"
             }
           ]
         },
@@ -498,15 +480,6 @@
           ]
         },
         {
-          "address": "andr1du4qfzv03mp3hppghjhplrjjf08gwkgwk7myp8",
-          "coins": [
-            {
-              "denom": "uandr",
-              "amount": "83280000000000"
-            }
-          ]
-        },
-        {
           "address": "andr1wstu7xnqeyqeawn0t37k5t3ns4p4dfuv7lxpaz",
           "coins": [
             {
@@ -557,24 +530,6 @@
             {
               "denom": "uandr",
               "amount": "100000000000"
-            }
-          ]
-        },
-        {
-          "address": "andr1na35vtugaucemngqq77ak67n7a39dqu4zuf577",
-          "coins": [
-            {
-              "denom": "uandr",
-              "amount": "45000000000000"
-            }
-          ]
-        },
-        {
-          "address": "andr15d20udac4qvrqremkjwkgsmpnaxu693wtrmc3q",
-          "coins": [
-            {
-              "denom": "uandr",
-              "amount": "183582983000000"
             }
           ]
         },
@@ -678,7 +633,34 @@
           ]
         },
         {
-          "address": "andr1m8a2nzwrasrls7czfedra6w7epwmlkx4lxejq3",
+          "address": "andr1acz34sg8mvksrqd4kg8xzafezlezwne6a3afcq",
+          "coins": [
+            {
+              "denom": "uandr",
+              "amount": "100000000000"
+            }
+          ]
+        },
+        { 
+          "address": "andr1lyj0adepn0eaeur7da6lkg3q2zdsxz9pcceqrd",
+          "coins": [
+            {
+              "denom": "uandr",
+              "amount": "100000000000"
+            }
+          ]
+        },
+        {
+          "address": "andr1du4qfzv03mp3hppghjhplrjjf08gwkgwk7myp8",
+          "coins": [
+            {
+              "denom": "uandr",
+              "amount": "83280000000000"
+            }
+          ]
+        },
+        {
+          "address": "andr1yznwkhnzey20mqsezlujntsznskd03lwynk3wq",
           "coins": [
             {
               "denom": "uandr",
@@ -687,11 +669,20 @@
           ]
         },
         {
-          "address": "andr1acz34sg8mvksrqd4kg8xzafezlezwne6a3afcq",
+          "address": "andr1na35vtugaucemngqq77ak67n7a39dqu4zuf577",
           "coins": [
             {
               "denom": "uandr",
-              "amount": "100000000000"
+              "amount": "45000000000000"
+            }
+          ]
+        },
+        {
+          "address": "andr1m8a2nzwrasrls7czfedra6w7epwmlkx4lxejq3",
+          "coins": [
+            {
+              "denom": "uandr",
+              "amount": "50000000000000"
             }
           ]
         },
@@ -705,7 +696,16 @@
           ]
         },
         {
-          "address": "andr1lyj0adepn0eaeur7da6lkg3q2zdsxz9pcceqrd",
+          "address": "andr15d20udac4qvrqremkjwkgsmpnaxu693wtrmc3q",
+          "coins": [
+            {
+              "denom": "uandr",
+              "amount": "183582983000000"
+            }
+          ]
+        },
+        {
+          "address": "andr1xa7nyzamw8qhtsd5muwdqnqphj8kgcm5yjnrl6",
           "coins": [
             {
               "denom": "uandr",
@@ -717,7 +717,7 @@
       "supply": [
         {
           "denom": "uandr",
-          "amount": "633420367000000"
+          "amount": "632520367000000"
         }
       ],
       "denom_metadata": [],
@@ -742,7 +742,12 @@
         "withdraw_addr_enabled": true
       },
       "fee_pool": {
-        "community_pool": []
+        "community_pool": [
+          {
+            "denom": "uandr",
+            "amount": "367479633000000"
+          }
+        ]
       },
       "delegator_withdraw_infos": [],
       "previous_proposer": "",
