@@ -47,6 +47,17 @@
       },
       "accounts": [
         {
+          "@type": "/cosmos.auth.v1beta1.ModuleAccount",
+          "base_account": {
+            "address": "andr1jv65s3grqf6v6jl3dp4t6c9t9rk99cd8l5v74j",
+            "pub_key": null,
+            "account_number": "0",
+            "sequence": "0"
+          },
+          "name": "distribution",
+          "permissions": []
+        },
+        {
           "@type": "/cosmos.auth.v1beta1.BaseAccount",
           "address": "andr17nmhwnjzs3prjaq5frtjlwxjx30x6epju8luft",
           "pub_key": null,
@@ -377,6 +388,15 @@
             {
               "denom": "uandr",
               "amount": "100000000000"
+            }
+          ]
+        },
+        {
+          "address": "andr1jv65s3grqf6v6jl3dp4t6c9t9rk99cd8l5v74j",
+          "coins": [
+            {
+              "denom": "uandr",
+              "amount": "367479633000000"
             }
           ]
         },
@@ -717,7 +737,7 @@
       "supply": [
         {
           "denom": "uandr",
-          "amount": "632520367000000"
+          "amount": "1000000000000000"
         }
       ],
       "denom_metadata": [],
@@ -745,7 +765,7 @@
         "community_pool": [
           {
             "denom": "uandr",
-            "amount": "367479633000000"
+            "amount": "367479633000000.000000000000000000"
           }
         ]
       },
