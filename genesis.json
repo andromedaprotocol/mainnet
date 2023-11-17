@@ -301,7 +301,7 @@
           "pub_key": null,
           "account_number": "34",
           "sequence": "0"
-        },
+        },       
         {
           "@type": "/cosmos.auth.v1beta1.BaseAccount",
           "address": "andr1ckx7r06cjsql9c6awheyhd8r4te8zkuhrd4wqq",
@@ -342,6 +342,13 @@
           "address": "andr1xa7nyzamw8qhtsd5muwdqnqphj8kgcm5yjnrl6",
           "pub_key": null,
           "account_number": "40",
+          "sequence": "0"
+        },
+        {
+          "@type": "/cosmos.auth.v1beta1.BaseAccount",
+          "address": "andr1xsm4dvmh5txrcteyv3yq5z8pm58mu353njah66",
+          "pub_key": null,
+          "account_number": "41",
           "sequence": "0"
         }
       ]
@@ -670,6 +677,15 @@
             }
           ]
         },
+        { 
+          "address": "andr1xsm4dvmh5txrcteyv3yq5z8pm58mu353njah66",
+          "coins": [
+            {
+              "denom": "uandr",
+              "amount": "100000000000"
+            }
+          ]
+        },
         {
           "address": "andr1du4qfzv03mp3hppghjhplrjjf08gwkgwk7myp8",
           "coins": [
@@ -765,7 +781,7 @@
         "community_pool": [
           {
             "denom": "uandr",
-            "amount": "367479633000000.000000000000000000"
+            "amount": "367379633000000.000000000000000000"
           }
         ]
       },
