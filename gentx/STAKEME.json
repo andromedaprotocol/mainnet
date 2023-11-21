@@ -1,0 +1,62 @@
+{
+  "body": {
+    "messages": [
+      {
+        "@type": "/cosmos.staking.v1beta1.MsgCreateValidator",
+        "description": {
+          "moniker": "STAKEME",
+          "identity": "5EAD753536BB995C",
+          "website": "https://stakeme.pro",
+          "security_contact": "team@stakeme.pro",
+          "details": "STAKEME helps web 3.0 projects to test their product, and provide the most efficient development support"
+        },
+        "commission": {
+          "rate": "0.100000000000000000",
+          "max_rate": "0.200000000000000000",
+          "max_change_rate": "0.010000000000000000"
+        },
+        "min_self_delegation": "1",
+        "delegator_address": "andr14psxmtcgkhtg6429yzv3tvknxdnphr64fa6vlk",
+        "validator_address": "andrvaloper14psxmtcgkhtg6429yzv3tvknxdnphr64qmv68v",
+        "pubkey": {
+          "@type": "/cosmos.crypto.ed25519.PubKey",
+          "key": "AwkYJLlVTAoMVv+Na5bh7oq575osfCLmrnDkVQRnxsI="
+        },
+        "value": {
+          "denom": "uandr",
+          "amount": "100000000000"
+        }
+      }
+    ],
+    "memo": "e9d4f8855f7e3cc609602ad5364c23cee9b55f7d@172.17.0.2:26656",
+    "timeout_height": "0",
+    "extension_options": [],
+    "non_critical_extension_options": []
+  },
+  "auth_info": {
+    "signer_infos": [
+      {
+        "public_key": {
+          "@type": "/cosmos.crypto.secp256k1.PubKey",
+          "key": "A4CK6NbwvD5BASwG6gEisAL2bPR1fndidVIZryjC04NO"
+        },
+        "mode_info": {
+          "single": {
+            "mode": "SIGN_MODE_DIRECT"
+          }
+        },
+        "sequence": "0"
+      }
+    ],
+    "fee": {
+      "amount": [],
+      "gas_limit": "200000",
+      "payer": "",
+      "granter": ""
+    },
+    "tip": null
+  },
+  "signatures": [
+    "xcKQXAt59eONE2rAZzgEOKT80ktXmq8ymbpmv6Xm5fxaH6RN2dLTbeokEeQ21yNcZDq7wJgm553JIz+GsABIjg=="
+  ]
+}
