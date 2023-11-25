@@ -15,6 +15,7 @@ Current Version: [andromeda-1-v0.1.0](https://github.com/andromedaprotocol/andro
 | Roundtable 21   | 7a313867fb7df8e8c84c32ef35fd97a693eb4282@95.56.244.244:56656       |
 | Siradi          | 301f9b0011f861693e08163f640c39cebbedd2f0@95.56.244.244:56658       |
 | Synergy Nodes   | 26cdc42778d24c8b0b0b68ed07c97685bfd8682f@178.162.165.65:26656      |
+| 🔥STAVR🔥       | e4c2267b90c7cfbb45090ab7647dc01df97f58f9@andromeda-m.peer.stavr.tech:4376      |
 
 ## Seeds
 
@@ -22,5 +23,7 @@ Current Version: [andromeda-1-v0.1.0](https://github.com/andromedaprotocol/andro
 |------|----------|
 
 ## Explorers
+| Team            | Explorer                                                           |
+|-----------------|--------------------------------------------------------------------|
+| 🔥STAVR🔥       | [Explorer Mainnet](https://explorer.stavr.tech/Andromeda-Mainnet)  |
 
-TBD...
